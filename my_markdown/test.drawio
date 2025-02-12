@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="第 1 页" id="XlPwqn8COuTB62swrka9">
+    <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-1" value="贾科梅蒂展览策划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="56" y="20" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-2" value="主题确定：1的纪念性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="44" y="124" width="212" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-3" value="空间设计：纵向雕塑 vs 横向古村" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="228" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-4" value="技术融合：AR虚拟场景" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="39" y="356" width="223" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-5" value="本土合作：曾力摄影、何健翔装置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-6" value="展览落地：塱头村春阳台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="32" y="588" width="236" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-7" value="国际影响：法国基金会认可" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="692" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-8" value="乡村振兴案例：威尼斯双年展" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="796" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iZZQGGgNyh6fcjbX4NNL-1" target="iZZQGGgNyh6fcjbX4NNL-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iZZQGGgNyh6fcjbX4NNL-2" target="iZZQGGgNyh6fcjbX4NNL-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iZZQGGgNyh6fcjbX4NNL-3" target="iZZQGGgNyh6fcjbX4NNL-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iZZQGGgNyh6fcjbX4NNL-4" target="iZZQGGgNyh6fcjbX4NNL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iZZQGGgNyh6fcjbX4NNL-5" target="iZZQGGgNyh6fcjbX4NNL-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iZZQGGgNyh6fcjbX4NNL-6" target="iZZQGGgNyh6fcjbX4NNL-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZZQGGgNyh6fcjbX4NNL-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iZZQGGgNyh6fcjbX4NNL-7" target="iZZQGGgNyh6fcjbX4NNL-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
